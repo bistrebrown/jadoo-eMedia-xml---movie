@@ -1,0 +1,10 @@
+<xml>
+<channel>
+<version>1.0</version>
+<name>Movies</name>
+<description>small channel description goes here</description>
+<encryption>YES</encryption>
+<channel_logo>http://djanalblas.nl/wp-content/uploads/2012/11/Warner-VOD-Logo.png</channel_logo>
+<base_url>https://dl.dropboxusercontent.com/s/pkjwgyub0qjzyoy/1TierBaseXml_Movies.xml?dl=0</base_url>
+</channel>
+</xml>
